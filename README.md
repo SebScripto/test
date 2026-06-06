@@ -1,6 +1,6 @@
 ---
 testbench: true
-safety: false
+safety: true
 status: active        # active | maintenance | archived
 team: embedded
 ---
