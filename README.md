@@ -1,5 +1,5 @@
-# test
-Test de features github
+# SPI Slave
+IP SPI Slave
 
 ![function](https://img.shields.io/badge/Fonction-SPI-violet) <!-- IP validée | IP draft | template -->
 ![status](https://img.shields.io/badge/Statut-IP_validée-brightgreen)
