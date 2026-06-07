@@ -9,3 +9,4 @@ team: embedded
 Test de features github
 
 
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
